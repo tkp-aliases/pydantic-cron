@@ -1,4 +1,4 @@
-from pydantic_cron import *  # noqa
+from pydantic_cron import *
 
 
 def test_all():
